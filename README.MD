@@ -1,6 +1,3 @@
-from pathlib import Path
-
-markdown_content = """
 # 🧬 Genetic Algorithm GUI - Documentación
 
 ## 📌 Propósito del Proyecto
